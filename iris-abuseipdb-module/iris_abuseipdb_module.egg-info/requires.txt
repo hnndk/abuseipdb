@@ -1,2 +1,0 @@
-abuseipdb-wrapper==0.2.0
-pyunpack==0.2.2
